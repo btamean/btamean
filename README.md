@@ -11,16 +11,15 @@
 
 # Key Skills
 
-## Vibe Coding Expertise
 
 
 # Tech Stack
 
 ## Programming Languages
 
-* JavaScript ES6 & TypeScript 5
-* Python3
+* JavaScript ES6 
 * Java21
+* 
 
 ## Cloud
 
@@ -43,11 +42,6 @@
 * Git, Docker, ECS/Fargate, Kubernetes, GraphQL
 
 # Experience
-
-### Development Tools
-- **[gh-project-cli](https://github.com/roboco-io/gh-project-cli)** - CLI for GitHub Projects automation
-- **[data-analysis-demo](https://github.com/roboco-io/data-analysis-demo)** - Stock market analysis with AI workflows
-
 
 ## Github metrics
 ![](github-metrics.svg)
