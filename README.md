@@ -19,27 +19,25 @@
 
 * JavaScript ES6 
 * Java21
-* 
+
 
 ## Cloud
 
-* AWS (Lambda, StepFunction, API Gateway, AppSync, CodeCommit, CodeGuru, CodeBuild, CodeDeploy, SageMaker, Glue)
-
+* 
 ## DB
 
-* DynamoDB, MySQL(RDS, Aurora), Redshift, Neptune(Graph DB), Neo4J, Oracle, PostgreSQL
+* MySQL, Oracle
 
 ## Data & Analytics
 
-* Pandas, Scikit-Learn
 
 ## Frontend
 
-* React, Svelte
+* React
 
 ## Etc
 
-* Git, Docker, ECS/Fargate, Kubernetes, GraphQL
+* Git, Docker
 
 # Experience
 
